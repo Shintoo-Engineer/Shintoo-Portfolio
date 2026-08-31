@@ -102,7 +102,7 @@ function updateActiveNav() {
 
 // ===== HEADLINE TYPEWRITER EFFECT =====
 const headlines = [
-  'Founder & CEO',
+  'Founder',
   'Innovation Ambassador',
   'Product Builder',
   'AI Enthusiast',
@@ -321,4 +321,4 @@ window.addEventListener('scroll', () => {
   }
 });
 
-console.log('%c✨ Portfolio of S. S. Shintoo Shel Lal – Founder & CEO, Zhynor IT Services & Solutions', 'color: #4f8ef7; font-size: 14px; font-weight: bold;');
+console.log('%c✨ Portfolio of S. S. Shintoo Shel Lal – Founder, Zhynor Technologies', 'color: #4f8ef7; font-size: 14px; font-weight: bold;');
